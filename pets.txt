@@ -1,0 +1,13 @@
+pets:
+
+fish
+1 - small
+2 - water
+
+snake
+1 - medium
+2 - fast
+
+cat
+
+dog
